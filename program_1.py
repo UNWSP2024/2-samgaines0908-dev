@@ -1,5 +1,8 @@
 def personal_information():
-    print('...')
+  print("Name: Rick Bailey")
+  print("Address: 452 Gaines Dr, Columbus Ohio, 471990")
+  print("Phone Number: (248) 434-5508") # Call number for a laugh
+  print("College Major: Music")
 
 
 # Line which calls the above function.
